@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Madison Bowman, and I am a third-year Computer Science student at Northeastern University with a concentration in software. I am passionate about collaborative development and enjoy working closely with others to solve complex problems. I have experience in full-stack web development and algorithm design, and I am particularly interested in leveraging AI to create efficient and innovative computing systems.
+
+## 📫 How to reach me: 
+madisonsbowman@gmail.com
 <!--
 **mbowman-23/mbowman-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,8 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 
-📫 How to reach me: 
-madisonsbowman@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
